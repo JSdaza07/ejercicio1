@@ -28,7 +28,7 @@ class Indice:
         self.__palfa2 = d
     def asignarPbeta(self,e):
         self.__pbeta = e
-    def asignarPgamma(self,f)
+    def asignarPgamma(self,f):
         self.__pgamma = f
 class Visita:
     def __init__(self):
@@ -50,7 +50,7 @@ class Visita:
         self.__registroe = h
     def asignarNotas(self,i):
         self.__notas = i
-    def asignarIndices(self,j)
+    def asignarIndices(self,j):
         self.__indices = j
 class Paciente:
     
